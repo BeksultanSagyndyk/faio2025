@@ -1,1 +1,3 @@
+# Qualification
 
+# Main competition
