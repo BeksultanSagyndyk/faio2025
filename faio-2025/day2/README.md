@@ -6,7 +6,7 @@ Dear participant, congratulations on making it to Day 2 of our Olympiad!
 In this round, you'll face **2 new problems** that challenge your skills in computer vision and recommender systems.  
 Each task is worth **1 point**. The maximum score for this round is **2 points**.
 
-Problems in English are described below. For a quick access, check the right side (see **"Table of Contents"**). For a Kazakh or Russian translation please click **[HERE](https://docs.google.com/document/d/1lLR4P-DFDZ2fQxSNLfa_EFoIsO5DNoHtjWnbgy4z3J0/edit?usp=sharing)**
+Problems in English are described below. For a quick access, check the right side (see **"Table of Contents"**). For a Kazakh or Russian translation please click **[HERE](./2nd-round-FAIO-2025-KZ-RU.pdf)**
 
 ## Problem 1: Personalized Music Recommender
 **Task Description:**  
