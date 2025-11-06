@@ -11,7 +11,7 @@
 </p>
 
 ---
-### 🧩 Task 4 — *Who Speaks What?*
+### 🧩 Task 1 — *Statistics 101?*
 
 - 📄 **Description:** [task1_stats_101.md](./task1_stats_101.md)  
 - **Original contest:** [Problem 1](https://contest.yandex.ru/contest/81908/problems/1/)
