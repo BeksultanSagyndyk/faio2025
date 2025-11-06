@@ -7,7 +7,7 @@ In this round, you'll need to solve **3 problems** covering different areas of a
 Each task is worth **1 point**. The maximum score for this round is **3 points**.
 
 
-# **All translations to Kazakh (Қазақша) and Russian (Русский) for the problems are in** [HERE]([1st-round-FAIO-2025-KZ-RU.pdf)
+# **All translations to Kazakh (Қазақша) and Russian (Русский) for the problems are in** [HERE](./1st-round-FAIO-2025-KZ-RU.pdf)
 
 ## Problem 1: Qaz-letters
 
