@@ -6,7 +6,8 @@ Dear participant, congratulations on reaching the first stage of our Olympiad!
 In this round, you'll need to solve **3 problems** covering different areas of artificial intelligence.  
 Each task is worth **1 point**. The maximum score for this round is **3 points**.
 
-# **All translations to Kazakh (Қазақша) and Russian (Русский) for the problems are in** [HERE](https://docs.google.com/document/d/1Evl7ACnQBP2_Ios0_fZS0X4fTHhgxEUpi-kimsuVPAs/edit?usp=sharing)
+
+# **All translations to Kazakh (Қазақша) and Russian (Русский) for the problems are in** [HERE](./FAIO-2025-1st-round-KZ-RU.pdf)
 
 ## Problem 1: Qaz-letters
 
