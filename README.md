@@ -20,7 +20,6 @@
   <a href="https://github.com/BeksultanSagyndyk/faio-tasks"><img src="https://img.shields.io/github/stars/BeksultanSagyndyk/faio-tasks?style=social"/></a>
   <a href="https://github.com/BeksultanSagyndyk/faio-tasks/issues"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen"/></a>
 </p>
-# FAIO Tasks (2024–2025)
 
 Short, curated set of tasks and materials from the Fizmat AI Olympiad (FAIO).
 
