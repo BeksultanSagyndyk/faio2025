@@ -67,4 +67,7 @@ It is intended for learning, practice, and archival use.
   <a href="https://github.com/Magauiya">
     <img src="https://github.com/Magauiya.png?size=100" width="80" height="80" alt="Magauiya" />
   </a>
+  <a href="https://github.com/adilkhan17">
+    <img src="https://github.com/adilkhan17.png?size=100" width="80" height="80" alt="adilkhan17" />
+  </a>
 </p>
