@@ -1,3 +1,9 @@
+  _____    _    ___    ___      ___     ___   ___    ____    
+ |  ___|  / \  |_ _|  / _ \    |__ \   / _ \ |__ \  | ___|     
+ | |_    / _ \  | |  | | | |      ) | | | | |   ) | |___ \  
+ |  _|  / ___ \ | |  | | | |     / /_ | | | |  / /_  ___) )
+ |_|   /_/   \_\___|  \___/      |___| \___/   |___| |____/ 
+ 
 Welcome to the Fizmat AI Olympiad 2025, online selection stage!
 
 Whether you make it to the final or not doesn't matter — the most important thing is to keep learning and stay interested in machine learning. Don't hesitate to ask questions in the future; we'll be happy to help.
