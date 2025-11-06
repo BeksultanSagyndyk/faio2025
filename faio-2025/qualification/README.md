@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://contest.yandex.ru/contest/81908/problems/4/">
+  <a href="https://contest.yandex.ru/contest/81908/problems/">
     🎯 Original Contest Link
   </a>
 </p>
