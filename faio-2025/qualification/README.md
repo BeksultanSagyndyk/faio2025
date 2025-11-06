@@ -25,8 +25,8 @@
 - 🏆 **Original contest:** [Problem 3](https://contest.yandex.ru/contest/81908/problems/3/)
 
 ### 🧩 Task 4 — *Who Speaks What?*
-- 📄 **Description:** [task4_Who_Speaks_What.md](./task4_who_speaks_what.md)  
-- 💻 **Solution:** [task_4_solution_who_speaks_what.ipynb](./task4_solution_who_speaks_what.ipynb)  
+- 📄 **Description:** [task4_Who_Speaks_What.md](./task4_Who_Speaks_What.md)  
+- 💻 **Solution:** [task_4_solution_who_speaks_what.ipynb](./task4_solution_Who_Speaks_What.ipynb)  
 - 🏆 **Original contest:** [Problem 4](https://contest.yandex.ru/contest/81908/problems/4/)
 
 ### 🧩 Task 5 — *Can You Become an AI Yoga Instructor?*
