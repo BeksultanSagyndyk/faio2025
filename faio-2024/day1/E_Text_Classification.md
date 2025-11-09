@@ -29,3 +29,32 @@ It contains around 50,000 examples and 95 unique classes/Tags. The dataset is in
 2. For each tag/label, create a set of its most important and relevant keywords/phrases/tokens.
 3. Create a rule to match text and tag by intersecting their keyword sets (the rule could be based on majority voting, the highest number of matching words, etc.).
 4. Using the algorithm from step 3, assign a Tag to each input text in the “hidden” dataset.
+
+Each row corresponds to a separate text (Title + Subtitle), with the total number of texts denoted by \( N \), where \( 1 \leq N \leq 10,000 \). The format is as follows:
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+***Title***: How do Transformers work? ***Subtitle***: In this section, we will take a high-level look at the architecture of Transformer models.
+
+***Title***: ...
+
+...
+
+...
+
+Row N
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+Code(Python):
+```python
+import sys
+input_data = sys.stdin.read()
+lines = input_data.splitlines()
+```
+
+A single string where each Tag is separated by ", ": 
+
+"\( \text{ai}, \text{football}, \text{politics}, \ldots, \text{N-th Tag} \)"
+
+All data is in English, and each article has only one unique Tag.
