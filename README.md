@@ -1,12 +1,10 @@
 <!-- DOCTOC SKIP -->
 
+<!-- DOCTOC SKIP -->
+
 <h1 align="center">
   <a href="https://faio.kz">
-    <picture>
-      <!-- Replace these with your actual logo paths if you have them -->
-      <source media="(prefers-color-scheme: dark)" srcset="assets/logo.png"/>
-      <img height="120" src="assets/faio_logo_light.png" alt="FAIO logo"/>
-    </picture>
+    <img height="120" src="./logo.png" alt="FAIO logo"/>
   </a>
   <br/>FAIO Tasks (2024–2025)
 </h1>
