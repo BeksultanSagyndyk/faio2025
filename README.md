@@ -31,12 +31,12 @@ It is intended for learning, practice, and archival use.
 
     faio-tasks/
     ├─ faio-2024/
-    │  ├─ qualification-round/   # TODO: statements, starter code, solutions
-    │  └─ day-1/                 # TODO: statements, starter code, solutions
+    │  ├─ qualification-round/   
+    │  └─ day-1/                 
     ├─ faio-2025/
-    │  ├─ qualification-round/   # TODO: statements, starter code, solutions
-    │  ├─ day-1/                 # TODO: statements, starter code, solutions
-    │  └─ day-2/                 # TODO: statements, starter code, solutions
+    │  ├─ qualification-round/   
+    │  ├─ day-1/                 
+    │  └─ day-2/                 
     └─ LICENSE
 
 ## Quick Start
