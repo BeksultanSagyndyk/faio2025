@@ -32,6 +32,7 @@ Each task is worth **1 point**. The maximum score for this round is **3 points**
 - 📊 **Metric:** Accuracy is the evaluation metric — the number of correct answers divided by total questions. The metric ranges from 0 to 1 (1 means all answers are correct, 0 means none are correct).
 - 🔗 **Kaggle:** [Click here](https://www.kaggle.com/t/96bfb8a3431c91d7479308df476fc0ee)
 - 📝 **Task:** [Click here](./Who_is_the_best_pitcher.md)
+- 🥇 **Baseline:** [Click here](./host-author-s-baseline.ipynb)
 
 ### 🧩 Problem 3 — Misssing fundamental puzzle
 - 📄 **Task Description:** Build a pitch classification model for musical audio illusions. The goal is to identify the original musical note (e.g., C4, G#5) from audio samples in which the fundamental frequency and several harmonics have been removed.
